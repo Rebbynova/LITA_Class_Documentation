@@ -9,4 +9,5 @@ This project aims to analyze and extract insight from the sales performance of a
   The dataset was provided by my instructor for a project focused on sales performance analysis for a retail store. It includes information on product, quantity, uunit price, and sales.
 ## Data Preparation in Excel
 - Data cleaning involved removing duplicates,handling missing values, and standardizing the format of the dataset.
-- **Example**
+- **Example**:
+   - **Before Cleaning**:
