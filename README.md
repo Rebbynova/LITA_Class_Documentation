@@ -12,6 +12,8 @@ This project aims to analyze and extract insight from the sales performance of a
 - **Example**:
    - **Before Cleaning**:![WhatsApp Image 2024-10-26 at 17 56 20](https://github.com/user-attachments/assets/2bdfaf4e-1566-4861-aacb-f4903dd33094) ![WhatsApp Image 2024-10-26 at 17 56 21](https://github.com/user-attachments/assets/47310da2-c10e-46b7-b029-102953d8c0b0)
    - **After Cleaning**:![WhatsApp Image 2024-10-26 at 17 56 14 (1)](https://github.com/user-attachments/assets/07e17834-6955-481d-988a-c02e54bebd5d)![WhatsApp Image 2024-10-26 at 17 56 15 (1)](https://github.com/user-attachments/assets/b7318a18-7a45-47de-8e1b-76aa5bc530ad)
-
+## Data Exploration
+The data exploration phase provided intial insights into the dataset,highlighting key sales patterns and popular products.
+- **Calculating Total Sales**: Summed up sales data to provide an overwiew of the store's overall revenue and performance.
 
 
