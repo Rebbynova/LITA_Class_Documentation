@@ -68,6 +68,12 @@ Accompanying the pivot table, this pivot chart visually represents total sales b
 This pivot table summarizes total sales by region, providing an overview of revenue contributions from different geographical areas. It enables quick comparisons and insights into regional performance
 ![image](https://github.com/user-attachments/assets/78c28604-4b47-4d5a-beb7-6e158f25c692)
 Accompanying the pivot table, this pivot chart visually represents total sales by region. It helps to illustrate the distribution of sales across different areas, making it easier to identify regions that are performing well or need improvement.
+### 3. Total Sales by Month
+![image](https://github.com/user-attachments/assets/527de20f-7f8d-4955-9559-f7239e6c2dec)
+This pivot table summarizes total sales by month, providing insights into sales trends over time. It allows for easy identification of seasonal patterns and monthly performance variations.
+![image](https://github.com/user-attachments/assets/22c57ce1-80ea-4f29-8ede-fa65f81be218)
+Accompanying the pivot table, this pivot chart visually represents total sales by month. It highlights sales trends and fluctuations throughout the year, making it easier to observe patterns and identify peak sales periods.
+
 
 
 
