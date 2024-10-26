@@ -73,6 +73,7 @@ Accompanying the pivot table, this pivot chart visually represents total sales b
 This pivot table summarizes total sales by month, providing insights into sales trends over time. It allows for easy identification of seasonal patterns and monthly performance variations.
 ![image](https://github.com/user-attachments/assets/22c57ce1-80ea-4f29-8ede-fa65f81be218)
 Accompanying the pivot table, this pivot chart visually represents total sales by month. It highlights sales trends and fluctuations throughout the year, making it easier to observe patterns and identify peak sales periods.
+### Power BI Visualization
 
 
 
