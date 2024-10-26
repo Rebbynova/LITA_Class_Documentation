@@ -15,5 +15,7 @@ This project aims to analyze and extract insight from the sales performance of a
 ## Data Exploration
 The data exploration phase provided intial insights into the dataset,highlighting key sales patterns and popular products.
 - **Calculating Total Sales**: Summed up sales data to provide an overwiew of the store's overall revenue and performance.
+- **Identifying Popular Products**: Analyzed product sales frequency to identify top-selling items and understand product demand.
+- **Analyzing Sales Trends**: Examined sales patterns over time to identify any seasonal trends and monthly or quarterly fluctuations in performance.
 
 
