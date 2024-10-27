@@ -1,4 +1,16 @@
 # Project Title: Sales Performance Analysis for a Retail Store
+
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Tools Used](#tools-used)
+3. [Data Sources](#data-sources)
+4. [Data Preparation in Excel](#data-preparation-in-excel)
+5. [Data Exploration](#data-exploration)
+6. [SQL Queries and Analysis](#sql-queries-and-analysis)
+7. [Excel Pivot Table and Chart](#excel-pivot-table-and-chart)
+8. [Power BI Visualization](#power-bi-visualization)
+9. [Conclusion](#conclusion)
+10. 
 ## Project Overwiew
 This project aims to analyze and extract insight from the sales performance of a retail store. This project utilizes Microsoft excel for data cleaning and SQL for data querying and analysis, the goal is to identify trends and important metrics in the sales data and also produce an interactive Power Bi dashboard.
 ## Tools Used
@@ -11,8 +23,8 @@ This project aims to analyze and extract insight from the sales performance of a
 ## Data Preparation in Excel
 - Data cleaning involved removing duplicates,handling missing values, and standardizing the format of the dataset.
 - **Example**:
-   - **Before Cleaning**:
-   ![image](https://github.com/user-attachments/assets/16c177b8-9a3c-458e-9eeb-013be9b2d21c)
+   - **Before Cleaning**: 
+  2. ![image](https://github.com/user-attachments/assets/16c177b8-9a3c-458e-9eeb-013be9b2d21c)
    ![image](https://github.com/user-attachments/assets/b49ef052-ea22-4160-ae68-fe4b3bec3c99)
 
    - **After Cleaning**:![image](https://github.com/user-attachments/assets/a27bce2f-9a5f-468d-9293-f4c96628e57c)![image](https://github.com/user-attachments/assets/ff3faf42-2b2c-4b7f-85bf-c448207c4bdf)
