@@ -6,6 +6,7 @@ This project aims to analyze and extract insight from the sales performance of a
 - **SQL**: For quering the dataset and generating insights.
 - **Power BI**: For visualization.
 ## Data Sources
+
   The dataset was provided by my instructor for a project focused on sales performance analysis for a retail store. It includes information on product, quantity, uunit price, and sales.
 ## Data Preparation in Excel
 - Data cleaning involved removing duplicates,handling missing values, and standardizing the format of the dataset.
@@ -59,21 +60,28 @@ group BY
 ## Excel Pivot Table and Chart
 
 ### 1. Total Sales by Product
-![image](https://github.com/user-attachments/assets/92179ac3-2e44-4fbc-8664-7aab684e91a9)
+![image](https://github.com/user-attachments/assets/755e24e0-98ed-480c-8cfb-718b3d367295)
+
 This pivot table summarizes total sales by product, providing a clear view of revenue contributions from each item. It allows for quick comparisons and highlights which products are driving sales.
-![image](https://github.com/user-attachments/assets/15a5d698-799b-405a-9097-b9848bf6c133)
+![image](https://github.com/user-attachments/assets/641c0d10-d544-403a-8eb3-3d7daa0b2d77)
+
 Accompanying the pivot table, this pivot chart visually represents total sales by product. It offers a graphical perspective on the data, making it easier to identify trends and key performers at a glance.
 ### 2. Total Sales by Region
-![image](https://github.com/user-attachments/assets/6b36d1bb-94dd-4e3b-88ab-afd6bd84834b)
+![image](https://github.com/user-attachments/assets/26fd65ff-fc35-4126-ae20-b9dfb8df9fbe)
+
 This pivot table summarizes total sales by region, providing an overview of revenue contributions from different geographical areas. It enables quick comparisons and insights into regional performance
-![image](https://github.com/user-attachments/assets/78c28604-4b47-4d5a-beb7-6e158f25c692)
+
+
 Accompanying the pivot table, this pivot chart visually represents total sales by region. It helps to illustrate the distribution of sales across different areas, making it easier to identify regions that are performing well or need improvement.
 ### 3. Total Sales by Month
-![image](https://github.com/user-attachments/assets/527de20f-7f8d-4955-9559-f7239e6c2dec)
+![image](https://github.com/user-attachments/assets/38382490-7d30-4762-b5fb-ae95aba4bd53)
+
 This pivot table summarizes total sales by month, providing insights into sales trends over time. It allows for easy identification of seasonal patterns and monthly performance variations.
-![image](https://github.com/user-attachments/assets/22c57ce1-80ea-4f29-8ede-fa65f81be218)
+![image](https://github.com/user-attachments/assets/99914e15-9e9c-41ec-a0bd-04e0dcc1ecba)
+
 Accompanying the pivot table, this pivot chart visually represents total sales by month. It highlights sales trends and fluctuations throughout the year, making it easier to observe patterns and identify peak sales periods.
 ### Power BI Visualization
+
 
 
 
