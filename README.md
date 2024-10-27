@@ -10,8 +10,8 @@
 7. [Excel Pivot Table and Chart](#excel-pivot-table-and-chart)
 8. [Power BI Visualization](#power-bi-visualization)
 9. [Conclusion](#conclusion)
-10. 
-## Project Overwiew
+   
+## Project Overview
 This project aims to analyze and extract insight from the sales performance of a retail store. This project utilizes Microsoft excel for data cleaning and SQL for data querying and analysis, the goal is to identify trends and important metrics in the sales data and also produce an interactive Power Bi dashboard.
 ## Tools Used
 - **Excel**: For data cleaning and preliminary analysis.
