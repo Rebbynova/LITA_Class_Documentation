@@ -11,8 +11,11 @@ This project aims to analyze and extract insight from the sales performance of a
 ## Data Preparation in Excel
 - Data cleaning involved removing duplicates,handling missing values, and standardizing the format of the dataset.
 - **Example**:
-   - **Before Cleaning**:![WhatsApp Image 2024-10-26 at 17 56 20](https://github.com/user-attachments/assets/2bdfaf4e-1566-4861-aacb-f4903dd33094) ![WhatsApp Image 2024-10-26 at 17 56 21](https://github.com/user-attachments/assets/47310da2-c10e-46b7-b029-102953d8c0b0)
-   - **After Cleaning**:![WhatsApp Image 2024-10-26 at 17 56 14 (1)](https://github.com/user-attachments/assets/07e17834-6955-481d-988a-c02e54bebd5d)![WhatsApp Image 2024-10-26 at 17 56 15 (1)](https://github.com/user-attachments/assets/b7318a18-7a45-47de-8e1b-76aa5bc530ad)
+   - **Before Cleaning**:
+   ![image](https://github.com/user-attachments/assets/16c177b8-9a3c-458e-9eeb-013be9b2d21c)
+   ![image](https://github.com/user-attachments/assets/b49ef052-ea22-4160-ae68-fe4b3bec3c99)
+
+   - **After Cleaning**:![image](https://github.com/user-attachments/assets/a27bce2f-9a5f-468d-9293-f4c96628e57c)![image](https://github.com/user-attachments/assets/ff3faf42-2b2c-4b7f-85bf-c448207c4bdf)
 ## Data Exploration
 The data exploration phase provided intial insights into the dataset,highlighting:
 1. Most Popular Subscription Type by Number of Customers
@@ -70,7 +73,7 @@ Accompanying the pivot table, this pivot chart visually represents total sales b
 ![image](https://github.com/user-attachments/assets/26fd65ff-fc35-4126-ae20-b9dfb8df9fbe)
 
 This pivot table summarizes total sales by region, providing an overview of revenue contributions from different geographical areas. It enables quick comparisons and insights into regional performance
-
+![image](https://github.com/user-attachments/assets/c6dfbbbd-695f-41c7-8628-1242a0e459d3)
 
 Accompanying the pivot table, this pivot chart visually represents total sales by region. It helps to illustrate the distribution of sales across different areas, making it easier to identify regions that are performing well or need improvement.
 ### 3. Total Sales by Month
