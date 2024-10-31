@@ -100,17 +100,17 @@ group BY
 ## Power BI Visualization
 - **Sales Overview**
 
--![3 Capture](https://github.com/user-attachments/assets/e260f2a3-2476-46f0-b815-4c6a5e59331e)
+![image](https://github.com/user-attachments/assets/b5a97226-f8a1-4ac2-a4cb-97f4a75deeed)
 
--![4 Capture](https://github.com/user-attachments/assets/93aa0be7-1fdc-4e95-b8d6-398cc774e46d)
+![image](https://github.com/user-attachments/assets/b8a134a0-8236-431a-a320-a10e0100da98)
 
 - **Top Performing Product**
 
--![1 Capture](https://github.com/user-attachments/assets/9fa2965c-4f23-4488-8058-3fb7805a259e)
+![image](https://github.com/user-attachments/assets/43c71228-3d1f-4336-9e76-427cff549d40)
 
 - **Regional Breakdown**
 
--![2 Capture](https://github.com/user-attachments/assets/2fc6ce1e-c6da-4b4c-a642-f88221dfa44c)
+![image](https://github.com/user-attachments/assets/dbde7ae4-1799-44f7-b555-81282ef1690f)
 
 ## Conclusion
 
