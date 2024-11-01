@@ -104,6 +104,8 @@ group BY
 
 ![image](https://github.com/user-attachments/assets/b8a134a0-8236-431a-a320-a10e0100da98)
 
+![image](https://github.com/user-attachments/assets/6e848d18-bc6d-493b-900e-cfbfbe4e9e0a)
+
 - **Top Performing Product**
 
 ![image](https://github.com/user-attachments/assets/43c71228-3d1f-4336-9e76-427cff549d40)
