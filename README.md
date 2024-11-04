@@ -12,7 +12,7 @@
 9. [Conclusion](#conclusion)
    
 ## Project Overview
-This project aims to analyze and extract insight from the sales performance of a retail store. This project utilizes Microsoft excel for data cleaning and SQL for data querying and analysis, the goal is to identify trends and important metrics in the sales data and also produce an interactive Power Bi dashboard.
+This project aims to analyze and extract insight from the sales performance of a retail store. This project utilizes Microsoft excel for data cleaning and SQL for data querying and analysis, the goal is to identify trends and important metrics in the sales data and also produce an interactive Power BI dashboard.
 ## Tools Used
 - **Excel**: For data cleaning and preliminary analysis.
 - **SQL**: For querying the dataset and generating insights.
@@ -21,7 +21,7 @@ This project aims to analyze and extract insight from the sales performance of a
 
   The dataset was provided by my instructor for a project focused on sales performance analysis for a retail store. It includes information on product, quantity, unit price, and sales.
 ## Data Preparation in Excel
-- Data cleaning involved removing duplicates,handling missing values, and standardizing the format of the dataset.
+- Data cleaning involved removing duplicates, handling missing values, and standardizing the format of the dataset.
 - **Example**:
    - **Before Cleaning**: 
   2. ![image](https://github.com/user-attachments/assets/16c177b8-9a3c-458e-9eeb-013be9b2d21c)
@@ -29,7 +29,7 @@ This project aims to analyze and extract insight from the sales performance of a
 
    - **After Cleaning**:![image](https://github.com/user-attachments/assets/a27bce2f-9a5f-468d-9293-f4c96628e57c)![image](https://github.com/user-attachments/assets/ff3faf42-2b2c-4b7f-85bf-c448207c4bdf)
 ## Data Exploration
-The data exploration phase provided initial insights into the dataset,highlighting:
+The data exploration phase provided initial insights into the dataset, highlighting:
 1. Most Popular Subscription Type by Number of Customers
 2. Customers Who Canceled Their Subscription Within 6 Months
 3. Average Subscription Duration for All Customers
