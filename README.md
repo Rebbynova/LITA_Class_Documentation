@@ -29,7 +29,7 @@ This project aims to analyze and extract insight from the sales performance of a
 
    - **After Cleaning**:![image](https://github.com/user-attachments/assets/a27bce2f-9a5f-468d-9293-f4c96628e57c)![image](https://github.com/user-attachments/assets/ff3faf42-2b2c-4b7f-85bf-c448207c4bdf)
 ## Data Exploration
-The data exploration phase provided intial insights into the dataset,highlighting:
+The data exploration phase provided initial insights into the dataset,highlighting:
 1. Most Popular Subscription Type by Number of Customers
 2. Customers Who Canceled Their Subscription Within 6 Months
 3. Average Subscription Duration for All Customers
