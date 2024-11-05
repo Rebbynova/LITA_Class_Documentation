@@ -6,7 +6,7 @@
 3. [Data Sources](#data-sources)
 4. [Data Preparation in Excel](#data-preparation-in-excel)
 5. [Data Exploration](#data-exploration)
-6. [Excel Pivot Table and Chart](#excel-pivot-table-and-chart)
+6. [Excel Pivot Tables and Charts](#excel-pivot-tables-and-charts)
 7. [SQL Queries and Analysis](#sql-queries-and-analysis)
 8. [Power BI Visualization](#power-bi-visualization)
 9. [Conclusion](#conclusion)
@@ -38,7 +38,7 @@ The data exploration phase provided initial insights into the dataset, highlight
 6. Top 3 Regions by Subscription Cancellations
 7. Total Number of Active and Canceled Subscriptions
 
-## Excel Pivot Table and Chart
+## Excel Pivot Tables and Charts
 
 ### 1. Total Sales by Product
 ![image](https://github.com/user-attachments/assets/755e24e0-98ed-480c-8cfb-718b3d367295)
