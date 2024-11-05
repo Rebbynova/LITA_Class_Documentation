@@ -100,6 +100,14 @@ group BY
 ## Power BI Visualization
 ![image](https://github.com/user-attachments/assets/08f99fe1-50a0-4806-ad92-e8050f043492)
 
+### Description:
+This dashboard provides a comprehensive view of a retail store’s sales performance, with key metrics and visualizations to highlight important insights.
+
+- **Cards (Total Sales Revenue, Average Order Value, Total Number of Transactions): These cards offer quick insights into the store’s overall sales performance by showing total revenue, average order value, and the total number of transactions, enabling a fast assessment of key metrics**.
+- **Product Category Chart (Bar Chart): This bar chart breaks down sales by product category, allowing viewers to see which products contribute the most to revenue. This insight helps in identifying top-performing categories for better inventory and marketing decisions**.
+- **Regional Sales (Bar Chart): Displays revenue distribution across different regions, helping to identify areas with strong or weak sales performance. This regional breakdown can guide targeted sales strategies for each location**.
+- **Product Quantity (Pie Chart): Shows the quantity of products sold by category, illustrating the volume of each product type sold relative to others. This is useful for understanding customer demand across various products**.
+
 ## Conclusion
 This project showcases my journey in analyzing sales data to derive actionable insights that can drive business decisions. Through the application of various analytical tools, including Excel for data cleaning,pivot tables and charts,and SQL for data querying as well as Power BI for visualizations, I have demonstrated my ability to interpret complex data sets and present findings in a clear, and impactful manner.
 
